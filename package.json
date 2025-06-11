@@ -1,0 +1,15 @@
+{
+  "name": "nostra-ecommerce-project",
+  "version": "1.0.0",
+  "main": "collection.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
